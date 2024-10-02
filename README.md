@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mike (@Jamieson2504), a senior web developer working at a design agency in Stockport
+- 👋 Hi, I’m Mike (@Jamieson2504), a senior web developer working at a design agency in Manchester
 - 👀 I’m a full-stack developer, but I’m more interested in front-end developement and eye-catching animations & UX
 - 🌱 I’m currently learning both React & Laravel
 - 📫 Reach out to me through my website (https://mike-jamieson.co.uk)
